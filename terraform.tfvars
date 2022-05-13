@@ -1,0 +1,5 @@
+aws_region="us-east-1"
+aws_account_id="360884427279"
+nifi_key="nifi"
+landing_bucket="lb-nifi-demo-landing"
+output_bucket="lb-nifi-demo-output"
