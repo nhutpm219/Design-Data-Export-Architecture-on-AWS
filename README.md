@@ -16,8 +16,7 @@ Your assignment is to design the **infrastructure** for this **Data Export** fea
 
 You can assume that the following is the current infrastructure. In this infrastructure, you will be adding more AWS resources to provide the data export functionality.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/364f677e-ea2b-47de-bb97-a24937518e7d/Untitled.png)
-
+![image](https://user-images.githubusercontent.com/70093183/168265666-74189ad2-3510-4561-bb05-e6e4f74d759d.png)
 <aside>
 💡 You are allowed to change this infrastructure as required, please refer [here](https://www.notion.so/Design-Data-Export-Architecture-on-AWS-3bca2606573a4033a1e5454d47ab1d46).
 
